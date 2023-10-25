@@ -1,6 +1,6 @@
 package lab2;
 
-import java.util.Scanner;
+import java.math.BigInteger;
 
 public class MainClass {
 
@@ -28,6 +28,11 @@ public class MainClass {
 		}
 		System.out.println("Noua valoare" + inputValue);
 		}
+
+//		BigInteger sum, i;
+//		for (i = 1; i < 64; i++)
+//			sum = sum + pow(i - 1);
+//		System.out.println(sum);
 	}
 
 }
